@@ -4,7 +4,7 @@ Design an autonomous exploration system using Markov Decision Process (MDP) for 
 
 | Student ID | Name | Email |
 |------------|------|-------|
-| 2211461642 | Md.Yousuf |  |
+| 2211461642 | Md.Yousuf | md.yousuf01@northsouth.edu |
 | 2211950642 | MD. Rokib Hasan Oli | rokib.oli@northsouth.edu |
-| 2131174642 | Safayat Ibrahim |  |
-| 2131228042 | Tashfia Adiba Zaman Nizhum |  |
+| 2131174642 | Safayat Ibrahim | safayat.ibrahim@northsouth.edu |
+| 2131228042 | Tashfia Adiba Zaman Nizhum | tashfia.nizum@northsouth.edu |
